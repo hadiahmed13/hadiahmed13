@@ -1,10 +1,85 @@
-<h1 align="center">Hi 👋, I'm Hadi</h1>
-<h3 align="center">I am a Computer Science Student @ University of Toronto</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hadiahmed13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadiahmed13" height="30" width="40" /></a>
+<!-- HEADER / BANNER -->
+<!-- Replace the URL below with your own Ghibli-like banner image -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/ghibli-banner.png" 
+    alt="Studio Ghibli style banner" 
+    width="80%" 
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">こんにちは (Hello) ~ I'm Hadi!</h1>
+
+<p align="center">
+  <em>A 2nd-year Computer Science student at the University of Toronto</em><br/>
+  <em>Soccer Enthusiast ⚽ | Formula 1 Fan 🏎️ | Gym Lover 💪 | Coding Adventurer 👨‍💻</em>
+</p>
+
+---
+
+## My Ghibli-Inspired Journey
+
+Like the gentle breeze that sweeps through a Studio Ghibli meadow, my path in tech has been one of curiosity, creativity, and continuous learning. I’m currently immersed in the world of computer science at the University of Toronto, enjoying every moment of exploration—from building projects in React to tinkering with neural networks in TensorFlow.
+
+When I’m not coding:
+- You might find me watching a Formula 1 race (always rooting for a close finish).
+- Kicking a soccer ball around the pitch with friends.
+- Hitting the gym to stay active and focused.
+- Watching a great animated show or discovering new facets of Japanese culture.
+
+---
+
+## Skills & Tools
+
+Like Totoro’s forest, my skill set is always growing! Here are some highlights:
+
+### Languages
+- **Python** | **JavaScript** | **Java** | **TypeScript** | **SQL** | **HTML/CSS**
+
+### Frameworks & Technologies
+- **React** | **Node.js** | **Next.js** | **MongoDB**  
+- **TensorFlow** | **PyTorch**  
+- **JUnit** | **Mockito**
+
+### Developer Tools
+- **Git/GitHub** | **IntelliJ IDEA** | **VSCode** | **PyCharm** | **Jupyter Notebooks**
+
+### Libraries
+- **Scikit-learn** | **Pandas** | **NumPy** | **Matplotlib** | **Pygame**
+
+*(Feel free to add or remove anything you find less relevant. This list is totally flexible!)*
+
+---
+
+## Current Adventures
+
+- **Learning**: Deepening my knowledge in AI/ML frameworks like TensorFlow & PyTorch.  
+- **Building**: Creating interactive front-end applications with React and Next.js.  
+- **Exploring**: Expanding my horizons with TypeScript and advanced Node.js features.
+
+---
+
+## Let’s Connect!
+
+If you’d like to chat about code, soccer, Formula 1, or all things Japan, feel free to reach out:
+
+- **GitHub**: [github.com/hadiahmed13](https://github.com/hadiahmed13)  
+- **LinkedIn**: [Your LinkedIn Here](#)  
+- **Email**: [Your Email Here](mailto:someone@example.com)
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/images/totoro-waving.gif" 
+    alt="Totoro waving goodbye" 
+    width="150px"
+  />
+</div>
+
+---
+
+<p align="center">
+  <em>
+    “Life is a waltz, a gentle breeze, a quiet flight through the stars.
+    Keep exploring, keep coding, and keep the Ghibli spirit alive!”
+  </em>
+</p>
