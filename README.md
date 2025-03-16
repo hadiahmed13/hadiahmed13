@@ -9,27 +9,21 @@
   />
 
   <!-- Typing effect -->
-  <!-- Line 1 -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=500&color=A7A459&center=true&vCenter=true&repeat=false&width=900&height=60&lines=How+lovely,+a+visitor!+Did+the+cat+bus+drop+you+off%3F"
-    width="70%" 
-  />
-  <!-- Line 2 -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=500&color=A7A459&center=true&vCenter=true&repeat=false&width=900&height=60&lines=Welcome+I+am+Hadi."
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=2000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=How+lovely,+a+visitor!+Did+the+cat+bus+drop+you+off%3F;Welcome+I+am+Hadi."
     width="70%" 
   />
 
   <br>
 
   <!-- Your info in a pre block -->
-  <pre>
-    💼 Current Role: Platform Engineer
+  <pre style="margin: 0; padding: 0; background: none; border: none;">
+    💼 Current Role: Prompt Engineer
     💻 Tech Stack: System programming, DevOps, Distributed Systems
     📖 Always Learning: Microservices, Observability, Scalability
-    🎮 Hobbies: Gaming, Anime, Music, Art
-    🌱 Ghibli Aesthetic Enthusiast
-  </pre>
+    🎮 Hobbies: Football, F1, Anime, Gaming
+    🌱 Ghibli Aesthetic Enthusiast</pre>
+  
 
   <br>
 
