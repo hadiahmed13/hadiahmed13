@@ -5,13 +5,12 @@
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRrNDZwN2cxdm1tZGFuNDBsN2IxZmU0bjQ5cDJqMnlvaDJrNzA4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uxebmaHfjsuCA/giphy.gif" 
     width="30%" 
     align="right"
-    height="500"
   />
 
   <!-- Typing effect -->
   <img 
     src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=2000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=How+lovely,+a+visitor!+Did+the+cat+bus+drop+you+off%3F;Welcome+I+am+Hadi."
-    width="70%" 
+    width="60%" 
   />
 
   <br>
