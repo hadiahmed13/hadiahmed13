@@ -5,7 +5,7 @@
     src="https://i.gifer.com/cD.gif" 
     width="30%" 
     align="right"
-    height="400"
+    height="390"
   />
 
   <!-- Typing effect with larger intrinsic width -->
