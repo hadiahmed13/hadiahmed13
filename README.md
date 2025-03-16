@@ -3,7 +3,7 @@
   <!-- Right-side GIF (your big tree) -->
   <img 
     src="https://i.gifer.com/cD.gif" 
-    width="25%" 
+    width="30%" 
     align="right"
     height="400"
   />
