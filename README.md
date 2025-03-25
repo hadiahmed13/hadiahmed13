@@ -21,7 +21,7 @@
   💻 Expertise: Systems Programming | DevOps Practices<br>
   📖 Exploring: Distributed Systems, & Machine Learning<br>
   🎮 Hobbies: Football, F1, Anime, Gaming<br>
-  🌱 Ghibli Aesthetic Enthusiast<br>
+  🌱 Japan Glazer<br>
 </small>
 
   
