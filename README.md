@@ -9,11 +9,7 @@
   />
 
   <!-- Typing effect with larger intrinsic width -->
-  <img
-  src="https://readme-typing-svg.demolab.com?    font=Inconsolata&weight=500&size=40&duration=1500&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Hello+Hello;I'm+Hadi,+Exploring+worlds,+real+and+imagined."
-  width="70%"
-  alt="Typing SVG"
-  />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=B2DFDB&width=435&lines=Hello+I'm+Hadi%2C+Exploring+worlds%2C+real+and+imagined.)](https://git.io/typing-svg)
 
 
   <small>
