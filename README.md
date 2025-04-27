@@ -21,7 +21,7 @@
   💻 Expertise: Systems Programming | DevOps Practices<br>
   📖 Exploring: Distributed Systems, & Machine Learning<br>
   🎮 Hobbies: Football, F1, Anime, Gaming<br>
-  🌱 Japan Glazer<br>
+  🌱 Japan <3 <br>
 </small>
 
   
