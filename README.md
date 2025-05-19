@@ -13,11 +13,11 @@
 
 
   <small>
-  💼 Seeking Opportunities in Software Engineering<br>
-  💻 Expertise: Systems Programming | DevOps Practices<br>
-  📖 Exploring: Distributed Systems, & Machine Learning<br>
+  💼 Seeking Software Engineering Internships<br>
+  💻 Open to Fullstack Development & DevOps Practices<br>
+  📖 Exploring: Distributed Systems & Machine Learning<br>
   🎮 Hobbies: Football, F1, Anime, Gaming<br>
-  🌱 Check out my work below! <3 <br>
+  🌱 See my work below! :D <br>
 </small>
 
   
